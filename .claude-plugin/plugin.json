@@ -5,7 +5,7 @@
   "description": "Plan, pause and pick up again in Nami from a conversation with Claude: put a task on your board in steps sized to the energy level you set, find the next step, keep your place when you stop, and keep notes, memories, rests and calendar entries where you will see them.",
   "author": { "name": "Nami", "url": "https://namiai.app" },
   "homepage": "https://namiai.app",
-  "license": "MIT",
+  "license": "LGPL-3.0-only",
   "privacyPolicyUrl": "https://namiai.app/privacy",
   "termsOfServiceUrl": "https://namiai.app/terms",
   "keywords": ["planning", "tasks", "energy", "adhd", "notes", "memory", "calendar", "rest"]
