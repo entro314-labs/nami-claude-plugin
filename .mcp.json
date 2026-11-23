@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nami": {
+      "type": "http",
+      "url": "https://namiai.app/api/mcp"
+    }
+  }
+}

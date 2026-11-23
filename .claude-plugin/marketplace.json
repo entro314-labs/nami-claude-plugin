@@ -1,0 +1,14 @@
+{
+  "name": "nami",
+  "owner": { "name": "Nami", "url": "https://namiai.app" },
+  "metadata": {
+    "description": "The Nami plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "nami",
+      "source": "./",
+      "description": "Plan, pause and pick up again in Nami: tasks in steps sized to your energy level, your place kept, notes, memories, rests and calendar entries, through the Nami connector."
+    }
+  ]
+}
